@@ -1,2 +1,2 @@
-# EMS
-Employee management system
+# SMS
+Student management system
